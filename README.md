@@ -1,5 +1,6 @@
 # Hi there, I'm Faishal Wahiduddin! 👋
-<img src="https://github.com/faishalwahiduddin/faishalwahiduddin/assets/15316893/e27d994c-d891-4206-bb9a-0f90b341ab73=250x" width="400">
+<img src="https://github.com/faishalwahiduddin/faishalwahiduddin/assets/15316893/f490d272-d10f-4df4-b973-d6ba9e215843" >
+
 
 ## 🚀 About Me
 
