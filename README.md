@@ -33,10 +33,10 @@ I'm a passionate and experienced software engineer with a robust background in J
 - **AWS Certified Cloud Practitioner**
 - **Certified ScrumMaster® (CSM®)**
 
-## 📈 GitHub Stats
+<!--  ## 📈 GitHub Stats
 
 ![Faishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faishalwahiduddin&show_icons=true&theme=radical)
-
+-->
 ## 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faishalwahiduddin&layout=compact&theme=radical)
