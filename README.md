@@ -4,10 +4,10 @@
 
 ## 🚀 About Me
 
-I'm a passionate and experienced software engineer with a robust background in JavaScript, TypeScript, Node.js, React, Vue.js, PHP, and Laravel. With a solid track record in leadership roles, including Chief Technology Officer and Chief Executive Officer, I have a proven ability to drive projects to success and lead teams effectively.
+Full Stack Engineer with extensive experience in JavaScript, TypeScript, React, Next.js, Node.js, Express, PHP, Laravel, and AWS. Proven track record in building robust, scalable applications for diverse clients. Skilled in TDD, CI/CD, and rapid prototyping, with a strong focus on high availability, fault tolerance, and API integration. Passionate about leveraging cutting-edge technologies to deliver efficient and reliable software solutions.
 
 - 🌍 Based in Indonesia
-- 🏢 Full Stack Engineer at [DoCheck](https://enigmate.id)
+- 🏢 Full Stack Engineer at [Enigmate](https://enigmate.id)
 - 🏢 Interim CTO at [Wool.id](https://wool.id)
 - 🏢 Interim CTO at [DoCheck](https://docheck.id/en/)
 - 🧑‍🎓 M.S. in Computer Science from University of Central Florida, USA
