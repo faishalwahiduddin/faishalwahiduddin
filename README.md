@@ -7,7 +7,9 @@
 I'm a passionate and experienced software engineer with a robust background in JavaScript, TypeScript, Node.js, React, Vue.js, PHP, and Laravel. With a solid track record in leadership roles, including Chief Technology Officer and Chief Executive Officer, I have a proven ability to drive projects to success and lead teams effectively.
 
 - 🌍 Based in Indonesia
-- 🏢 Currently CTO at [DoCheck](https://docheck.id/en/)
+- 🏢 Full Stack Engineer at [DoCheck](https://enigmate.id)
+- 🏢 Interim CTO at [Wool.id](https://wool.id)
+- 🏢 Interim CTO at [DoCheck](https://docheck.id/en/)
 - 🧑‍🎓 M.S. in Computer Science from University of Central Florida, USA
 - 🧑‍🎓 B.Sc. in Informatics from Universitas Padjadjaran, Indonesia
 - 📧 Reach me at [faishal.wahiduddin@outlook.com](mailto:faishal.wahiduddin@outlook.com)
@@ -61,11 +63,12 @@ I'm a passionate and experienced software engineer with a robust background in J
 
 ## 💼 Projects
 
+
+### [Wool.id](https://wool.id/)
+- A web-based Enneagram psychotest platform that provides accurate and efficient personality assessments.
+
 ### [DoCheck](https://docheck.id/en/)
 - A productivity platform that helps users manage tasks and achieve goals.
-
-### [Wool.id](https://wool.id/id/)
-- A web-based Enneagram psychotest platform that provides accurate and efficient personality assessments.
 
 Feel free to check out my repositories and contributions. Let's connect and collaborate on exciting projects!
 
