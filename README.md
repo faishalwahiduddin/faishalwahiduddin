@@ -4,12 +4,8 @@
 
 ## 🚀 About Me
 
-Full Stack Engineer with extensive experience in JavaScript, TypeScript, React, Next.js, Node.js, Express, PHP, Laravel, and AWS. Proven track record in building robust, scalable applications for diverse clients. Skilled in TDD, CI/CD, and rapid prototyping, with a strong focus on high availability, fault tolerance, and API integration. Passionate about leveraging cutting-edge technologies to deliver efficient and reliable software solutions.
-
 - 🌍 Based in Indonesia
-- 🏢 Full Stack Engineer at [Enigmate](https://enigmate.id)
-- 🏢 Interim CTO at [Wool.id](https://wool.id)
-- 🏢 Interim CTO at [DoCheck](https://docheck.id/en/)
+- 🏢 Chief Technology Officer at [AutoKon.id](https://autokon.id)
 - 🧑‍🎓 M.S. in Computer Science from University of Central Florida, USA
 - 🧑‍🎓 B.Sc. in Informatics from Universitas Padjadjaran, Indonesia
 - 📧 Reach me at [faishal.wahiduddin@outlook.com](mailto:faishal.wahiduddin@outlook.com)
@@ -62,13 +58,6 @@ Full Stack Engineer with extensive experience in JavaScript, TypeScript, React, 
 - Machine Learning and AI applications in web development
 
 ## 💼 Projects
-
-
-### [Wool.id](https://wool.id/)
-- A web-based Enneagram psychotest platform that provides accurate and efficient personality assessments.
-
-### [DoCheck](https://docheck.id/en/)
-- A productivity platform that helps users manage tasks and achieve goals.
 
 Feel free to check out my repositories and contributions. Let's connect and collaborate on exciting projects!
 
