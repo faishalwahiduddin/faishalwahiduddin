@@ -89,8 +89,6 @@ Fulbright Scholar · M.S. Computer Science (UCF, GPA 3.90)
 </div>
 
 > Most shipping work lives in **private client repositories** (AutoKon, Wool, DoCheck, ongoing consulting). Production case studies and portfolio at [faishalwahiduddin.com](https://faishalwahiduddin.com).
->
-> _Note: `github-readme-stats` and `top-langs` cards intentionally omitted — the public Vercel instance is currently paused (503). Streak-stats + shields cover the same signal reliably. Phase-2 self-hosted stats via GitHub Actions if wanted._
 
 ---
 
