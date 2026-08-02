@@ -80,12 +80,17 @@ Fulbright Scholar · M.S. Computer Science (UCF, GPA 3.90)
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=faishalwahiduddin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faishalwahiduddin&layout=compact&hide_border=true&langs_count=8&theme=tokyonight)
+![Followers](https://img.shields.io/github/followers/faishalwahiduddin?style=for-the-badge&logo=github&label=Followers&labelColor=0F172A&color=2ea44f)
+![Stars](https://img.shields.io/github/stars/faishalwahiduddin?style=for-the-badge&logo=github&label=Stars&labelColor=0F172A&color=eab308&affiliations=OWNER)
+![Profile Views](https://komarev.com/ghpvc/?username=faishalwahiduddin&style=for-the-badge&label=Profile+Views&color=0A66C2)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=faishalwahiduddin&theme=tokyonight&hide_border=true&card_width=680)
 
 </div>
 
 > Most shipping work lives in **private client repositories** (AutoKon, Wool, DoCheck, ongoing consulting). Production case studies and portfolio at [faishalwahiduddin.com](https://faishalwahiduddin.com).
+>
+> _Note: `github-readme-stats` and `top-langs` cards intentionally omitted — the public Vercel instance is currently paused (503). Streak-stats + shields cover the same signal reliably. Phase-2 self-hosted stats via GitHub Actions if wanted._
 
 ---
 
