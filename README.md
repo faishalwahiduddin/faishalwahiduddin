@@ -44,6 +44,7 @@ Fulbright Scholar · M.S. Computer Science (UCF, GPA 3.90)
 - **Chief Technology Officer** — Wool · Jul 2023 – Dec 2024 · B2B Mental-Health Platform
 - **Chief Technology Officer** — DoCheck · May 2021 – Jul 2023 · SaaS Productivity
 - **Graduate Research Assistant** — University of Central Florida · Jul 2019 – May 2021 · Cybersecurity & HPC
+- **Teaching Assistant** — Universitas Padjadjaran · 2016 – 2019 · Department of Informatics
 - **Microsoft Student Partner** — Microsoft · Sep 2014 – Jun 2016 · 100+ developers mentored
 
 ---
