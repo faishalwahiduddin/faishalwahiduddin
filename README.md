@@ -2,7 +2,7 @@
 
 # Faishal Wahiduddin
 
-**Founding CTO · Hands-on AI Engineering Leader**
+**Chief Technology Officer · Hands-on AI Engineering Leader**
 Fulbright Scholar · M.S. Computer Science (UCF, GPA 3.90)
 
 [![Website](https://img.shields.io/badge/faishalwahiduddin.com-0F172A?style=for-the-badge&logo=safari&logoColor=white)](https://faishalwahiduddin.com)
@@ -18,10 +18,10 @@ Fulbright Scholar · M.S. Computer Science (UCF, GPA 3.90)
 
 10+ years engineering and **5+ years as CTO** across construction-tech (AutoKon), mental health (Wool), and SaaS (DoCheck). I ship AI/ML in production and connect technical work to measurable business outcomes.
 
-- 3× CTO — built and scaled engineering orgs from first hire to 20+
+- Built and led engineering teams from first hire to 20+
 - Hands-on AI: multimodal VLM, RAG, LLM-as-judge evaluation, agentic workflows
 - Fulbright Scholar · M.S. Computer Science, University of Central Florida (GPA 3.90/4.00)
-- Based in Jakarta (UTC+7) · US-remote / Singapore / UAE-remote
+- Based in Bandung, Indonesia (UTC+7) · US-remote / Singapore / UAE-remote
 
 ---
 
@@ -29,21 +29,20 @@ Fulbright Scholar · M.S. Computer Science (UCF, GPA 3.90)
 
 | Where | What | Outcome |
 |-------|------|---------|
-| **AutoKon** | Founding CTO — B2B construction-tech platform shipped solo | Thousands of housing units nationwide across 3 timezones; contractor payments gated on photo-verified progress |
+| **AutoKon** | B2B construction-tech platform, shipped solo as CTO | Thousands of housing units across 3 time zones; contractor payments released only after photo-verified progress |
 | **AutoKon** | VLM image analysis + LLM-as-judge eval pipeline (Arize AX) | Vision judges calibrated to **κ ≥ 0.80** before results gate payment |
-| **Wool** | DMHP AI-analytics for regulated mental-health data | Company's first **BUMN** (state-owned enterprise) partnership |
+| **Wool** | DMHP AI-analytics system, 10+ cross-functional team | Company's first enterprise customer, a **BUMN** (state-owned enterprise) |
 | **Wool** | Digital Enneagram psychotest platform | **90% ↓** assessment cycle time vs paper process |
 | **DoCheck** | AWS serverless migration · CI/CD · AI-assisted planning | **30% ↑** delivery · **20% ↓** infra cost · **25% ↑** task completion |
-| **DoCheck** | Technical-content + SEO program | Domain Authority **5 → 53** in 6 months |
 
 ---
 
 ## Experience
 
-- **Founding CTO** — [AutoKon Pte. Ltd.](https://faishalwahiduddin.com) · Jan 2025 – Jul 2026 · B2B AI Construction-Tech
+- **Chief Technology Officer** — [AutoKon Pte. Ltd.](https://faishalwahiduddin.com/work/autokon/) · Jan 2025 – Jul 2026 · B2B AI Construction-Tech
 - **Chief Technology Officer** — Wool · Jul 2023 – Dec 2024 · B2B Mental-Health Platform
 - **Chief Technology Officer** — DoCheck · May 2021 – Jul 2023 · SaaS Productivity
-- **Graduate Research Assistant** — University of Central Florida · Jul 2019 – May 2021 · Cybersecurity & HPC
+- **Graduate Research Assistant** — University of Central Florida · Aug 2019 – May 2021 · Computer Architecture & HPC (PMO Sync thesis)
 - **Teaching Assistant** — Universitas Padjadjaran · 2016 – 2019 · Department of Informatics
 - **Microsoft Student Partner** — Microsoft · Sep 2014 – Jun 2016 · 100+ developers mentored
 
@@ -97,8 +96,8 @@ Fulbright Scholar · M.S. Computer Science (UCF, GPA 3.90)
 
 - **Fulbright Master Degree Scholarship** — U.S. Department of State · 2019–2021
 - **Gemini Certified Educator** — Google · 2026 · `172028089`
-- **Certified ScrumMaster (CSM)** — Scrum Alliance · 2023 · `1380153`
-- **AWS Certified Cloud Practitioner** — Amazon Web Services · 2022 · `6X9LLBKBKBV1Q25B`
+- **Certified ScrumMaster (CSM)** — Scrum Alliance · 2021 · `1380153`
+- **AWS Certified Cloud Practitioner** — Amazon Web Services · 2021 · `6X9LLBKBKBV1Q25B`
 
 ---
 
