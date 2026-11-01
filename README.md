@@ -4,6 +4,7 @@
 
 **Chief Technology Officer · Hands-on AI Engineering Leader**
 Fulbright Scholar · M.S. Computer Science (UCF, GPA 3.90)
+Now: Independent Chief Technology Officer · Teman Diskusi IT ([faishal.id](https://faishal.id)) · open to remote CTO / VP Eng roles
 
 [![Website](https://img.shields.io/badge/faishalwahiduddin.com-0F172A?style=for-the-badge&logo=safari&logoColor=white)](https://faishalwahiduddin.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faishalwahiduddin)
