@@ -17,7 +17,7 @@ Now: Independent Chief Technology Officer · your tech talk partner for apps, we
 
 ## About
 
-10+ years engineering and **5+ years as CTO** across construction-tech (AutoKon), mental health (Wool), and SaaS (DoCheck). I ship AI/ML in production and connect technical work to measurable business outcomes.
+**Chief Technology Officer** across construction-tech (AutoKon), mental health (Wool), and SaaS (DoCheck). I ship AI/ML in production and connect technical work to measurable business outcomes.
 
 - Built and led engineering teams from first hire to 20+
 - Hands-on AI: multimodal VLM, RAG, LLM-as-judge evaluation, agentic workflows
@@ -40,12 +40,12 @@ Now: Independent Chief Technology Officer · your tech talk partner for apps, we
 
 ## Experience
 
-- **Chief Technology Officer** — [AutoKon Pte. Ltd.](https://faishalwahiduddin.com/work/autokon/) · Jan 2025 – Jul 2026 · B2B AI Construction-Tech
-- **Chief Technology Officer** — Wool · Jul 2023 – Dec 2024 · B2B Mental-Health Platform
-- **Chief Technology Officer** — DoCheck · May 2021 – Jul 2023 · SaaS Productivity
-- **Graduate Research Assistant** — University of Central Florida · Aug 2019 – May 2021 · Computer Architecture & HPC (PMO Sync thesis)
-- **Teaching Assistant** — Universitas Padjadjaran · 2016 – 2019 · Department of Informatics
-- **Microsoft Student Partner** — Microsoft · Sep 2014 – Jun 2016 · 100+ developers mentored
+- **Chief Technology Officer** — [AutoKon Pte. Ltd.](https://faishalwahiduddin.com/work/autokon/) · B2B AI Construction-Tech
+- **Chief Technology Officer** — Wool · B2B Mental-Health Platform
+- **Chief Technology Officer** — DoCheck · SaaS Productivity
+- **Graduate Research Assistant** — University of Central Florida · Computer Architecture & HPC (PMO Sync thesis)
+- **Teaching Assistant** — Universitas Padjadjaran · Department of Informatics
+- **Microsoft Student Partner** — Microsoft · 100+ developers mentored
 
 ---
 
@@ -95,10 +95,10 @@ Now: Independent Chief Technology Officer · your tech talk partner for apps, we
 
 ## Credentials
 
-- **Fulbright Master Degree Scholarship** — U.S. Department of State · 2019–2021
-- **Gemini Certified Educator** — Google · 2026 · `172028089`
-- **Certified ScrumMaster (CSM)** — Scrum Alliance · 2021 · `1380153`
-- **AWS Certified Cloud Practitioner** — Amazon Web Services · 2021 · `6X9LLBKBKBV1Q25B`
+- **Fulbright Master Degree Scholarship** — U.S. Department of State
+- **Gemini Certified Educator** — Google · `172028089`
+- **Certified ScrumMaster (CSM)** — Scrum Alliance · `1380153`
+- **AWS Certified Cloud Practitioner** — Amazon Web Services · `6X9LLBKBKBV1Q25B`
 
 ---
 
